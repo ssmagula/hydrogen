@@ -1,8 +1,8 @@
 ---
 layout: page
 flytitle:  
-hed: News from HydrogeNXT
-dek: Company updates, announcements, and clean technology links
+hed: Clean energy news and updates
+dek: HydrogeNXT company updates, news, announcements, and clean technology links
 permalink: news
 
 ---
