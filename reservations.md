@@ -2,7 +2,7 @@
 layout: page
 flytitle:  
 hed: The Cure for Range Anxiety
-dek: Our patented mobile reservation system makes driving a fuel cell electric car as easy as it is clean.
+dek: Reserve hydrogen from your mobile phone with a tap of your finger and say goodbye to range anxiety
 title: 
 permalink: /reservations.html
 
