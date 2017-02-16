@@ -34,11 +34,11 @@
                         <a class="page-scroll" href="{{ "/news.html" | relative_url }}">News</a>
                     </li>				
 		  	        {% for my_page in site.pages %}
-					<li>
-		  	          {% if my_page.title %}
-		  	             <a class="page-scroll" href="{{ my_page.url | relative_url }}">{{ my_page.title | escape }}</a>
-		  	          {% endif %}
-					</li>  
+					  {% if my_page.title %}
+					  <li>        
+		  	            <a class="page-scroll" href="{{ my_page.url | relative_url }}">{{ my_page.title | escape }}</a>     
+					  </li>
+					  {% endif %}  
 		  	        {% endfor %}
                 </ul>
             </div>
