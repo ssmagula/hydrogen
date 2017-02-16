@@ -1,7 +1,7 @@
 ---
 layout: page
 flytitle:  
-hed: News and updates
+hed: News
 dek: HydrogeNXT company updates, announcements, and clean technology links
 permalink: news
 
@@ -9,9 +9,7 @@ permalink: news
 
 <!-- SMAG displays recent posts   -->
 
-
 <div class="container">
-	<section id="news">
 	{% for post in site.posts %}
 	<div class="row">
 		<div class="col-lg-3 col-lg-offset-2 col-md-3 col-md-offset-2">
@@ -34,7 +32,7 @@ permalink: news
 		</div>
 	</div>
 	{% endfor %}
-	<div class="team-member col-md-3 col-md-offset-4 text-center" style="margin-top:50px"> <!-- TODO: put this into stylesheet properly -->
+	<div class="team-member col-md-4 col-md-offset-4 text-center" style="margin-top:50px"> <!-- TODO: put this into stylesheet properly -->
 		<ul class="list-inline social-buttons">
 			<li><a href="#"><i class="fa fa-twitter"></i></a>
 			</li>
@@ -43,11 +41,10 @@ permalink: news
 			<li><a href="#"><i class="fa fa-linkedin"></i></a>
 			</li>
 		</ul>
-		<div class="text-muted">
+		<div class="text-muted" style="margin-top: 20px">
 		Subscribe <a href="{{ "/feed.xml" | relative_url }}">via RSS</a>
 		</div>
 	</div>
-	</section>
 </div>
 	
 
