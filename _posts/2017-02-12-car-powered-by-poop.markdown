@@ -3,6 +3,7 @@ layout: post
 flytitle: Hydrogen from farm waste
 title:  "This car powered by poop"
 dek: How methane produced by agricultural waste and landfills might actually power your next trip to the grocery store
+comments: true
 date:   2017-02-12 20:27:14 -0600
 categories: 
 author: "Rob Wise"
