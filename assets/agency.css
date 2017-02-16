@@ -1,5 +1,5 @@
 /*!
- * Start Bootstrap - Agency v3.3.7+1 (http://startbootstrap.com/template-overviews/agency)
+ * Adapted from Start Bootstrap - Agency v3.3.7+1 (http://startbootstrap.com/template-overviews/agency)
  * Copyright 2013-2016 Start Bootstrap
  * Licensed under MIT (https://github.com/BlackrockDigital/startbootstrap/blob/gh-pages/LICENSE)
  */
@@ -585,7 +585,7 @@ aside.clients img {
 }
 section#contact {
   background-color: #222222;
-  /* background-image: url('../img/map-img.png');  Smag: not worth the weight */;
+  /* Smag: removed the background image of a map, was not worth the weight */;
   background-position: center;
   background-repeat: no-repeat;
 }

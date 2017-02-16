@@ -2,7 +2,7 @@
 layout: page
 flytitle:  
 hed: The Cure for Range Anxiety
-dek: Reserve hydrogen from your mobile phone with a tap of your finger and say goodbye to range anxiety
+dek: Reserve hydrogen from your mobile phone and never again wonder if you have enough in the tank
 title: 
 permalink: /reservations.html
 

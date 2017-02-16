@@ -1,15 +1,17 @@
 ---
 layout: page
 flytitle:  
-hed: Clean energy news and updates
-dek: HydrogeNXT company updates, news, announcements, and clean technology links
+hed: News and updates
+dek: HydrogeNXT company updates, announcements, and clean technology links
 permalink: news
 
 ---
 
 <!-- SMAG displays recent posts   -->
 
+
 <div class="container">
+	<section id="news">
 	{% for post in site.posts %}
 	<div class="row">
 		<div class="col-lg-3 col-lg-offset-2 col-md-3 col-md-offset-2">
@@ -17,35 +19,37 @@ permalink: news
 			<img src=" {{ post.img-large | escape }} " class="img-responsive" style="margin-top:7px">
 		</a>
 		</div>
-
 		<div class="col-lg-5 col-md-5 col-sm-10">
 			<div class="flytitle" style="padding-bottom:10px; font-size:1.1em">
 				{{ post.flytitle | escape }}
 			</div>
 			<a href="{{ post.url | relative_url }}">
 				<span class="title h3">{{ post.title | escape }}</span>
-					<p style="font-size:1.1em">{{ post.content | strip_html | truncatewords: 28 }}</p>
+			</a>
+				<p style="font-size:1.1em">{{ post.content | strip_html | truncatewords: 28 }}</p>
 				<span>
 					{{ post.author | escape }}</span>, <span>{{ post.date | date: "%b %-d, %Y" }}
 				</span>
-			</a>
 			<hr>
 		</div>
 	</div>
-{% endfor %}
+	{% endfor %}
+	<div class="team-member col-md-3 col-md-offset-4 text-center" style="margin-top:50px"> <!-- TODO: put this into stylesheet properly -->
+		<ul class="list-inline social-buttons">
+			<li><a href="#"><i class="fa fa-twitter"></i></a>
+			</li>
+			<li><a href="#"><i class="fa fa-facebook"></i></a>
+			</li>
+			<li><a href="#"><i class="fa fa-linkedin"></i></a>
+			</li>
+		</ul>
+		<div class="text-muted">
+		Subscribe <a href="{{ "/feed.xml" | relative_url }}">via RSS</a>
+		</div>
+	</div>
+	</section>
 </div>
+	
 
-<div class="team-member col-md-3 col-md-offset-4 text-center" style="margin-top:50px"> <!-- TODO: put this into stylesheet properly -->
-<ul class="list-inline social-buttons">
-<li><a href="#"><i class="fa fa-twitter"></i></a>
-</li>
-<li><a href="#"><i class="fa fa-facebook"></i></a>
-</li>
-<li><a href="#"><i class="fa fa-linkedin"></i></a>
-</li>
-</ul>
-<div class="text-muted">
-Subscribe <a href="{{ "/feed.xml" | relative_url }}">via RSS</a>
-</div>
-</div>
+
 

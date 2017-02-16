@@ -79,11 +79,11 @@ layout: default
 				</div>
 				<a href="{{ post.url | relative_url }}">
 					<span class="title h3">{{ post.title | escape }}</span>
+				</a>
 						<p style="font-size:1.1em">{{ post.content | strip_html | truncatewords: 28 }}</p>
 					<span>
 						{{ post.author | escape }}</span>, <span>{{ post.date | date: "%b %-d, %Y" }}
 					</span>
-				</a>
 				<hr>
 			</div>
 		</div>
