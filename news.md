@@ -6,7 +6,6 @@ dek: HydrogeNXT company updates, announcements, and clean technology links
 permalink: news
 
 ---
-
 <!-- SMAG displays recent posts   -->
 
 <div class="container">

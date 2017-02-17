@@ -174,10 +174,10 @@ h1, h2, h3, h4, h5, h6 {
       width: 271px;
       height: 60px;
       background: transparent url("../assets/img//logos/h2nxt_logo_60px.png") left top no-repeat;
-      /* font-size: 2em;   Smag: removing type font  */
-      -webkit-transition: all 0.3s;
-      -moz-transition: all 0.3s;
-      transition: all 0.3s; }
+      font-size: 2em;
+      -webkit-transition: all 0.4s;
+      -moz-transition: all 0.4s;
+      transition: all 0.4s; }
     .navbar-custom .navbar-nav > .active > a {
       border-radius: 3px; } }
 @media (min-width: 768px) {
@@ -185,11 +185,14 @@ h1, h2, h3, h4, h5, h6 {
     background-color: #222222;
     padding: 5px 0;
     /* Smag: was 10px top and bottom padding */
-    /* font-size: 1em; */ }
+    font-size: .8em;
+    -webkit-transition: all 0.4s;
+    -moz-transition: all 0.4s;
+    transition: all 0.4s; }
     .navbar-custom.affix .navbar-brand {
-      width: 226px;
-      height: 51px;
-      background: transparent url("../assets/img//logos/h2nxt_logo_50px.png") left top no-repeat; } }
+      width: 181px;
+      height: 41px;
+      background: transparent url("../assets/img//logos/h2nxt_logo_40px.png") left top no-repeat; } }
 header {
   background-image: url("../assets/img//header-bg.png");
   background-repeat: no-repeat;
