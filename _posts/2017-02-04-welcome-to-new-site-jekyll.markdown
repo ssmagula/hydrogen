@@ -1,8 +1,8 @@
 ---
 layout: post
-layout: post
 flytitle: Robots in me
 title:  Welcome to the new site
+comments: true
 dek: Some notes on how this site is assembled in .22 seconds by a series of scripts and codes
 date:   2017-02-01 20:27:14 -0600
 categories:
