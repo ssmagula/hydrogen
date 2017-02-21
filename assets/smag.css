@@ -130,8 +130,8 @@ h1, h2, h3, h4, h5, h6 {
     border-color: #00B4FF;
     font-family: "Montserrat", "Helvetica Neue", Helvetica, Arial, sans-serif;
     text-transform: uppercase;
-    color: #222222;
-    /* Smag: was white */
+    color: #ffffff;
+    /* Smag: was $gray-darker */
     font-size: 12px; }
     .navbar-custom .navbar-toggle:hover, .navbar-custom .navbar-toggle:focus {
       background-color: #00B4FF; }
@@ -166,9 +166,9 @@ h1, h2, h3, h4, h5, h6 {
   .navbar-custom {
     background-color: transparent;
     padding: 25px 0;
-    -webkit-transition: padding 0.3s;
-    -moz-transition: padding 0.3s;
-    transition: padding 0.3s;
+    -webkit-transition: padding 0.4s;
+    -moz-transition: padding 0.4s;
+    transition: padding 0.4s;
     border: none; }
     .navbar-custom .navbar-brand {
       width: 271px;
