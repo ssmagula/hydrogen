@@ -1,9 +1,9 @@
 ---
 layout: page
 flytitle:  
-hed: News
-dek: HydrogeNXT company updates, announcements, and clean technology links
-permalink: news
+hed: Updates
+dek: HydrogeNXT company news, announcements, and clean technology links
+permalink: updates
 
 ---
 <!-- SMAG displays recent posts   -->
