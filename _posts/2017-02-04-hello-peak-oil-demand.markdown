@@ -1,7 +1,7 @@
 ---
 layout: post
 flytitle: Breaking the habit
-title:  Say hello to peak oil demand
+title:  Lorem ipsum peak oil demand
 dek: Some people say it's hard to know the future, and even harder to see the future of the future
 date:   2017-02-12 20:27:14 -0600
 categories:

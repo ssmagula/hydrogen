@@ -1,9 +1,9 @@
 ---
 layout: page
 flytitle:  
-hed: Updates
-dek: HydrogeNXT company news, announcements, and clean technology links
-permalink: updates
+hed: Escape Velocity
+dek: A blog featuring HydrogeNXT company updates, announcements, and clean energy links
+permalink: blog
 
 ---
 <!-- SMAG displays recent posts   -->

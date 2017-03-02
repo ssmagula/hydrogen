@@ -2,8 +2,8 @@
 layout: page
 title: Press
 flytitle: 
-hed: HydrogeNXT in the press
-dek: What news outlets are saying about us
+hed: In the press
+dek: What news outlets are saying about us and the clean mobility industry
 permalink: press
 
 ---
@@ -32,7 +32,7 @@ permalink: press
 			<hr>
 				<div class="text-center">			
 					<h4>Want to learn more?</h4>
-					<button type="button" data-toggle="modal" data-target="#emailModal" data-message="Hello message here" class="btn btn-xl">Get in touch</button></div>
+					<a href="{{ "/index.html#contact" | relative_url }}" class="btn btn-xl">Get in touch</a></div>
 				</div>
 	</div>
 

@@ -1,7 +1,7 @@
 ---
 layout: post
 flytitle: Reverse-engineering batteries
-title:  Where does the lithium in your battery come from?
+title:  Lux et veritas lithium consectitur?
 dek: While cleaner than internal combustion engines, battery electric vehicle makers have more work to do before they can claim to be entirely green
 date:   2017-02-10 20:27:14 -0600
 categories: 
