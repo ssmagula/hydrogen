@@ -5,7 +5,7 @@ title:  Say hello to peak oil demand
 dek: Some people say it's hard to know the future, and even harder to see the future of the future
 date:   2017-02-12 20:27:14 -0600
 categories:
-author: "Rob Wise"
+author: "Ulrich Hermans"
 img-large: http://cdn.static-economist.com/sites/default/files/imagecache/full-width/images/print-edition/20161126_SRP035_2.jpg
 img-small: http://cdn.static-economist.com/sites/default/files/imagecache/200-width/images/print-edition/20170128_STP003_2.jpg
 ---

@@ -1,12 +1,12 @@
 ---
 layout: post
 flytitle: Hydrogen from farm waste
-title:  "This car powered by poop"
-dek: How methane produced by agricultural waste and landfills might actually power your next trip to the grocery store
+title:  "This car powered by everything"
+dek: How methane produced by agricultural waste and landfills might actually power a clean energy revolution
 comments: true
 date:   2017-02-12 20:27:14 -0600
 categories: 
-author: "Rob Wise"
+author: "Stefan Smagula"
 img-large: http://cdn.static-economist.com/sites/default/files/imagecache/full-width/images/print-edition/20170211_STP005_0.jpg
 img-small: http://cdn.static-economist.com/sites/default/files/imagecache/200-width/images/print-edition/20170128_STP003_2.jpg
 ---

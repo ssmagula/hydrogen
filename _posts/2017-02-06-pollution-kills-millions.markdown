@@ -5,7 +5,7 @@ title:  "Air pollution kills millions each year"
 dek: Some people say it's hard to see the future, and even harder to see the future of the future
 date:   2017-02-06 20:27:14 -0600
 categories: 
-author: "Rob Wise"
+author: "Nicole Roberts"
 img-large: http://cdn.static-economist.com/sites/default/files/imagecache/full-width/images/print-edition/20170211_BRP002_0.jpg
 img-small: http://cdn.static-economist.com/sites/default/files/imagecache/200-width/images/print-edition/20170128_STP003_2.jpg
 ---
